@@ -13,7 +13,7 @@
 // main ads ke backup ads 
 "MODE_BACKUP_ADS" : true,
 "MODE_NO_ADS" : false,
-"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : true,
+"MODE_TES_IKLAN_FAN_ADMOB_UNITY_STARTAPP_APPDODEAL" : false,
 
 //     mode pengaturan iklan
 //     Mode ADMOB       Admob backup Unity Backup Startapp
@@ -26,7 +26,7 @@
 "PENGATURAN_IKLAN_INTER" : "FAN",
 "PENGATURAN_IKLAN_NATIVE" : "FAN",
 
-"INTER_COUNT" : "5",
+"INTER_COUNT" : "2",
 
 "ENABLE_STRAP" : true,
 "ENABLE_STRAP_SPLAHSCREEN" : false,
